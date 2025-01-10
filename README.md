@@ -25,7 +25,3 @@ The dataset was reduced from its original size (300,000 rows) to ~20,000 rows by
 - `Ask HN` posts receive more comments on average than `Show HN` posts.
 - Posts submitted at specific hours tend to get significantly more engagement.
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hacker-news-posts-analysis.git
